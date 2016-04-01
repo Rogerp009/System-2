@@ -1,0 +1,17 @@
+/**
+ *
+ * Apply Here your Custom CSS
+ *
+*/
+
+body {
+	
+}
+header .intro-text-a .name {
+    display: block;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #FFFFFF;
+}
